@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+
     <h1>deweyu</h1>
     <van-button type="primary">主要按钮</van-button>
 <van-button type="info">信息按钮</van-button>
@@ -14,6 +15,7 @@ export default {
   name: 'dewey'
 }
 </script>
+
 <style lang="less">
 
 </style>
